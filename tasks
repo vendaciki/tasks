@@ -201,7 +201,8 @@ $gameTasks = [
       ["KONTEJNER"],
       ["KONTEJNER" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ["POPELNICE" => "Popelnice to je, ale já bych radši jiný název.",
-      ["KOŠ" => "Koš to je, ale já bych radši jiný název.
+      ["KOŠ" => "Koš to je, ale já bych radši jiný název.",
+      ["STROM" => "Ten tam je taky. Ale co ještě tam je?",
       ]
     ), */3 OTÁZKA 2 z 8/*
     
@@ -214,7 +215,7 @@ $gameTasks = [
     ), */3 OTÁZKA 3 z 8/*
     
     new Task(
-      'N 49° 09.961 E 016° 35.796 /nTřetí náhrobek, Zdeňka… .',
+      'N 49° 09.961 E 016° 35.796 /nTřetí náhrobek, Zdeňka….',
       ["JANSOVÁ"],
       ["JANSOVÁ" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ]
