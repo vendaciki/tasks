@@ -153,9 +153,9 @@ $gameTasks = [
     
     new Task(
       'N 49° 10.091 E 016° 35.861 /nMáme tu pomník. Z kolika částí se skládá? ,
-      ["11", "JEDENÁCT"],
-      ["11" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
-      ["JEDENÁCT" => "To je správné číslo, ale lepší by bylo číslovkou, ale že jsi to ty, tak ti to uznám :)/nTvůj třetí úkol je splněn :)",
+      ["12", "DVANÁCT"],
+      ["12" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
+      ["DVANÁCT" => "To je správné číslo, ale lepší by bylo číslovkou, ale že jsi to ty, tak ti to uznám :)/nTvůj třetí úkol je splněn :)",
       ]
     ), */2 OTÁZKA 4 z 8/*
     
