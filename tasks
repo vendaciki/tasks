@@ -73,28 +73,27 @@ $gameTasks = [
        "316" => "Skoro. Ještě 3 k tomu.",
        "377" => "Malinko uber. Stačí 58.",
       ]  
-    ), */OTÁZKA 1 z 8/*
-      
+    ), /*OTÁZKA 1 z 8*/      
     new Task(
       'N 49° 10.246 E 016° 35.441 /nCo je na kameni napsáno? (jen první dvě slova).',
       ["ROZPTYLOVÁ LOUČKA"],
       ["ROZPTYLOVÁ LOUČKA" => "No vidíš, a ani to nebylo tak těžký. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ]
-    ), */1 OTÁZKA 2 z 8/*
+    ), /*1 OTÁZKA 2 z 8*/
     
     new Task(
       'N 49° 10.312 E 016° 35.447 /nZde nás bude zajímat pochovaná rodina (černý náhrobek).',
       ["ELGARTOVA"],
       ["ELGARTOVA" => "No vidíš, a ani to nebylo tak těžký. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ]
-    ), */1 OTÁZKA 3 z 8/*
+    ), /*1 OTÁZKA 3 z 8*/
     
     new Task(
       'N 49° 10.318 E 016° 35.413 /nTady se nachází černý náhrobek se zlatým písmem „Rodina…“',
       ["LEDEREROVA"],
       ["LEDEREROVA" => "No vidíš, a ani to nebylo tak těžký. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ]
-    ), */1 OTÁZKA 4 z 8/*
+    ), /*1 OTÁZKA 4 z 8*/
     
     new Task(
       'N 49° 10.342 E 016° 35.385 /nKolik jehlanů se nachází na střeše krematoria?',
@@ -102,7 +101,7 @@ $gameTasks = [
       ["16" => "No vidíš, a ani to nebylo tak těžký. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ["šestnáct" => "Lepsí by byla číslovka, ale uznám ti to taky :)",
       ]
-    ), */1 OTÁZKA 5 z 8/*
+    ), /*1 OTÁZKA 5 z 8*/
     
     new Task(
       'N 49° 10.325 E 016° 35.597 /nVelký černý náhrobek má rodina Čapkova. Jaký obrazec (symbol) mají na náhrobku nahoře?',
@@ -110,21 +109,21 @@ $gameTasks = [
       ["KALICH" => "Symbol husitů nebo taky symbol ženství. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ["POHÁR" => "I ten by to mohl být, ale chci jiné slovo.",
       ]
-    ), */1 OTÁZKA 6 z 8/*
+    ), /*1 OTÁZKA 6 z 8*/
     
     new Task(
       'N 49° 10.237 E 016° 35.652 /nKruh slavných osobností. Hledáme houslistu „Jaroslav…“ má housle na náhrobku.',
       ["ŠTĚPÁNEK"],
       ["ŠTĚPÁNEK" => "Velice nadaný český houslista. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ]
-    ), */1 OTÁZKA 7 z 8/*
+    ), /*1 OTÁZKA 7 z 8*/
     
     new Task(
       'N 49° 10.220 E 016° 35.612 /nNa zdi nad náhrobky je neúplná socha „černého…“',
       ["ANDĚLA"],
       ["ANDĚLA" => "No vidíš, a ani to nebylo tak těžký. /nTvůj druhý úkol je splněn :) /nMůžeme jít dál.",
       ]
-    ), */1 OTÁZKA 8 z 8/*
+    ), /*1 OTÁZKA 8 z 8*/
     
     new Task(
       'N 49° 10.115 E 016° 35.814 /nPrvní náhrobek ruského vojáka a první slovo v azbuce (přelož z azbuky do latinky).',
@@ -133,7 +132,7 @@ $gameTasks = [
       ["HRDINA" => "Ano, to je, ale stačí to dát do latinky, ne přeložit. /nTak ještě jednou a správně.",
       ["VELKÝ" => "Velký hrdina. Ano. Zkus to znovu.",
       ]
-    ), */2 OTÁZKA 1 z 8/*
+    ), /*2 OTÁZKA 1 z 8*/
     
     new Task(
       'N 49° 10.098 E 016° 35.786 /nNa pomníku hledej hvězdu. Jaké dvě věci jsou v ní uprostřed? Slova odděl spojkou „… a …“.',
@@ -142,14 +141,14 @@ $gameTasks = [
       ["KLADIVO A SRP" => "Opačné pořadí, ale přímhouřím jedno oko a jdi dál./nTvůj třetí úkol je splněn :)",
       ["ŠAVLE A SAMOPAL" => "Ne. To co hledáme, měl Sovětský svaz na vlajce.",
       ]
-    ), */2 OTÁZKA 2 z 8/*
+    ), /*2 OTÁZKA 2 z 8*/
     
     new Task(
       'N 49° 10.116 E 016° 35.833 /nMezi stromky se schovává pomník. První příjmení je? Josef… ',
       ["BENEŠ"],
       ["BENEŠ" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
       ]
-    ), */2 OTÁZKA 3 z 8/*
+    ), /*2 OTÁZKA 3 z 8*/
     
     new Task(
       'N 49° 10.091 E 016° 35.861 /nMáme tu pomník. Z kolika částí se skládá? ,
@@ -157,21 +156,21 @@ $gameTasks = [
       ["12" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
       ["DVANÁCT" => "To je správné číslo, ale lepší by bylo číslovkou, ale že jsi to ty, tak ti to uznám :)/nTvůj třetí úkol je splněn :)",
       ]
-    ), */2 OTÁZKA 4 z 8/*
+    ), /*2 OTÁZKA 4 z 8*/
     
     new Task(
       'N 49° 10.157 E 016° 35.696 /nNa pravé straně zdi je cedulka na sloupku. Co je na ní napsáno?',
       ["SKUPINA 54"],
       ["SKUPINA 54" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
       ]
-    ), */2 OTÁZKA 5 z 8/*
+    ), /*2 OTÁZKA 5 z 8*/
     
     new Task(
       'N 49° 10.164 E 016° 35.760 /nTady je náhrobní kámen, opřený o zeď. Co je na něm napsáno? (je to špatně vidět).',
       ["KONORSA"],
       ["KONORSA" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
       ]
-    ), */2 OTÁZKA 6 z 8/*
+    ), /*2 OTÁZKA 6 z 8*/
     
     new Task(
       'N 49° 10.116 E 016° 35.843 /nKolik je pomníků na této straně?.',
@@ -179,7 +178,7 @@ $gameTasks = [
       ["10" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
       ["DESET" => "Číslovka by byla lepší, ale uznám ti to ať můžeme jít dál./nTvůj třetí úkol je splněn :)",
       ]
-    ), */2 OTÁZKA 7 z 8/*
+    ), /*2 OTÁZKA 7 z 8*/
     
     new Task(
       'N 49° 10.116 E 016° 35.833 /nMezi stromky se schovává pomník. Kolik je tam jmen.',
@@ -187,14 +186,14 @@ $gameTasks = [
       ["20" => "No vidíš, a ani to nebylo tak těžký. /nTvůj třetí úkol je splněn :) /nMůžeme jít dál na poslední úkol.",
       ["DVACET" => "Číslovka by byla lepší, ale uznám ti to ať můžeme jít dál./nTvůj třetí úkol je splněn :)",
       ]
-    ), */2 OTÁZKA 8 z 8/*
+    ), /*2 OTÁZKA 8 z 8*/
     
     new Task(
       'N 49° 09.911 E 016° 35.696 /nU konce zdi je pomník dvou rodin. Nás zajímá rodina vpravo.',
       ["DOLEŽELOVA"],
       ["DOLEŽELOVA" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ]
-    ), */3 OTÁZKA 1 z 8/*
+    ), /*3 OTÁZKA 1 z 8*/
     
     new Task(
       'N 49° 09.920 E 016° 35.603 /nCo v těchto místech stojí? ',
@@ -204,7 +203,7 @@ $gameTasks = [
       ["KOŠ" => "Koš to je, ale já bych radši jiný název.",
       ["STROM" => "Ten tam je taky. Ale co ještě tam je?",
       ]
-    ), */3 OTÁZKA 2 z 8/*
+    ), /*3 OTÁZKA 2 z 8*/
     
     new Task(
       'N 49° 09.967 E 016° 35.535 /nZde na rohu je cedulka a na ní je napsáno…',
@@ -212,28 +211,28 @@ $gameTasks = [
       ["79 C" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ["79 A" => "Možná bych zkusila třetí písmeno v abecedě.",
       ]
-    ), */3 OTÁZKA 3 z 8/*
+    ), /*3 OTÁZKA 3 z 8*/
     
     new Task(
       'N 49° 09.961 E 016° 35.796 /nTřetí náhrobek, Zdeňka….',
       ["JANSOVÁ"],
       ["JANSOVÁ" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ]
-    ), */3 OTÁZKA 4 z 8/*
+    ), /*3 OTÁZKA 4 z 8*/
     
     new Task(
       'N 49° 09.957 E 016° 35.546 /nNáhrobek s velkým hnědým křížem. První jméno na něm? (ženské).',
       ["MARIE"],
       ["MARIE" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ]
-    ), */3 OTÁZKA 5 z 8/*
+    ), /*3 OTÁZKA 5 z 8*/
     
     new Task(
       'N 49° 09.958 E 016° 35.746 /nTřetí pomník zprava, rodina…',
       ["HOVORKOVA"],
       ["HOVORKOVA" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ]
-    ), */3 OTÁZKA 6 z 8/*
+    ), /*3 OTÁZKA 6 z 8*/
     
     new Task(
       'N 49° 09.929 E 016° 35.903 /nZde máme bránu. Kolik je na ní křížků ve tvaru X? .',
@@ -241,7 +240,7 @@ $gameTasks = [
       ["28" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ["DVACETOSM" => "No, byla bych radši za číslovku, ale žej si to ty.../nTeď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ]
-    ), */3 OTÁZKA 7 z 8/*
+    ), /*3 OTÁZKA 7 z 8*/
     
     new Task(
       'N 49° 10.002 E 016° 35.527 /nU cedulky 79 A roste strom. Co je to za strom? .',
@@ -250,7 +249,7 @@ $gameTasks = [
       ["LÍPA" => "No, a teď už se můžeš jít logovat a máš povoleno i klít, ale potichu./nN 49° 10.362 E 016° 35.344 /nLOVU ZDAR :-D",
       ["-" => "Jaký je náš národní strom?"
       ]
-    ), */3 OTÁZKA 8 z 8/*
+    ), /*3 OTÁZKA 8 z 8*/
     
     
     
