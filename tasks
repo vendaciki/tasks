@@ -126,7 +126,7 @@ $gameTasks = [
     ), /*1 OTÁZKA 8 z 8*/
     
     new Task(
-      'N 49° 10.115 E 016° 35.814 \nPrvní náhrobek ruského vojáka a první slovo v azbuce (přelož z azbuky do latinky).',
+      'N 49° 10.115 E 016° 35.814 \nPrvní náhrobek ruského vojáka a první slovo v azbuce (z azbuky do latinky).',
       ["GEROJ"],
       ["GEROJ" => "Neboli HRDINA. Proč asi? \nTvůj třetí úkol je splněn :) \nMůžeme jít dál na poslední úkol.",
       ["HRDINA" => "Ano, to je, ale stačí to dát do latinky, ne přeložit. \nTak ještě jednou a správně.",
