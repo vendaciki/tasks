@@ -57,7 +57,7 @@ $gameTasks = [
    new Task(
       "-",
       ["HICON"],
-      ["HICON" => "Hurááá. Dalo to zabrat, ale musíme jít prostě dál. /nTvůj první úkol je splněn a ještě 3 zbývají :)",
+      ["HICON" => "Hurááá. Dalo to zabrat, ale musíme jít prostě dál. \nTvůj první úkol je splněn a ještě 3 zbývají :)",
        "ŠVEJK" => "Dobrý voják Švejk to není.",
        "MĚSTA" => "Tak to je špatná odpověď.",
        "VJEZD" => "Vjezd to není, ale určitě tudma půjdeš dovnitř.",
